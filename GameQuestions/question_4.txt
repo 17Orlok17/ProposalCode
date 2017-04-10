@@ -1,0 +1,6 @@
+Question$$I fed Shiloh on our first wine tour, and you objected.  What food did I give him?
+QuestionAnswerContains$$burger
+Hint1$$We ate at Cayuga Creamery.
+Hint2$$This food is also served at Five Guys.
+Clue$$Look under the polar bear in the guest room.  What is the treasure code?
+ClueAnswer$$139

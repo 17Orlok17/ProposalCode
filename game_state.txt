@@ -1,0 +1,3 @@
+QuestionNumber:0
+Hint:0
+GameScore:0

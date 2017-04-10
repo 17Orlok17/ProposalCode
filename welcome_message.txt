@@ -1,0 +1,17 @@
+Welcome, daring adventurer!  A great quest lies before you.
+Long ago, a polar bear fell in love with a hedgehog.
+Fate, in its prodigous cruelty, separated them for many years.
+However, their love for each other only grew.  
+
+At last, the hour of reunion approached, and in accordance with 
+ancient customs, they chose a ring for the beautiful hedgehog.
+The polar bear, however, was careful.  He took precautions so
+that the ring would not fall into the wrong hands.  
+
+He created a layered security system.  This program will ask
+questions that only the hedgehog could know.  However, as an 
+added layer of protection, you will need to recover physical 
+clues to unlock the next question.  
+
+Once you have answered all the questions - with your memory
+and the physical clues, the location of the ring will be revealed.

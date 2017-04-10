@@ -1,0 +1,6 @@
+Question$$When Ella and Aunt Sally came to visit and hike with us in Ithaca, what restaurant were we at after the hike when Sally's friends asked an awkward marriage question?
+QuestionAnswerContains$$moosewood
+Hint1$$It's a relatively well known vegetarian restaurant.
+Hint2$$The name is derived from an animal with massive antlers.
+Clue$$Go to the dining room table (next to the kitchen) and look for the closest group of pictures.  Check behind the picture of Lauren, Kelly, and Ella.  What is the treasure code?
+ClueAnswer$$113

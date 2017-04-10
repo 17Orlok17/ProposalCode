@@ -1,0 +1,6 @@
+Question$$You hold a day long brunch to watch this epic trilogy every year. 
+QuestionAnswerContains$$rings
+Hint1$$Speak friend, and enter.
+Hint2$$Hobbits travel to Mount Doom
+Clue$$Look inside "The Lord of the Rings" on the bookshelf of Evan's old room.  What is the treasure code?
+ClueAnswer$$137

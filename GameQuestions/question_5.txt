@@ -1,0 +1,6 @@
+Question$$We made a day trip to this theme park on the vacation you arranged to Gettysburg.
+QuestionAnswerContains$$hershey
+Hint1$$There was candy everywhere.
+Hint2$$Named after a candy bar that starts with 'H' and is a popular ingredient in s'mores.
+Clue$$Look at the wall behind the dartboard in the basement. What is the treasure code?
+ClueAnswer$$173

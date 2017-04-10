@@ -1,0 +1,6 @@
+Question$$What movie did we watch on first date?
+QuestionAnswerContains$$ralph
+Hint1$$A main character says, "I am bad and that is good."
+Hint2$$Arcade game characters search for friendship and identity.
+Clue$$Look in the tray at the base of the Christmas tree.  What is the treasure code?
+ClueAnswer$$101
